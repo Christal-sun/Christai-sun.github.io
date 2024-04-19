@@ -2225,6 +2225,16 @@ figure.highlight pre .javascript .function {
     width: 100% !important;
   }
 }
+@media screen and (min-width: 900px) {
+  .layout > div:first-child {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+}
 .layout.hide-aside {
   max-width: 1000px;
 }
@@ -2544,12 +2554,54 @@ figure.highlight pre .javascript .function {
 h1.page-title + .tag-cloud-list {
   text-align: left;
 }
+/
+/
+#page-header .jpg,
+#page-header:before .jpg,
+#page-header background-image: /img/background.jpg,
+#page-header:before background-image: /img/background.jpg,
+#page-header height: 12.5rem,
+#page-header:before height: 12.5rem,
+#page-header display: block,
+#page-header:before display: block,
+#page-header margin: -50px -40px 50px -40px,
+#page-header:before margin: -50px -40px 50px -40px,
+#page-header border-top-left-radius: inherit,
+#page-header:before border-top-left-radius: inherit,
+#page-header border-top-right-radius: inherit,
+#page-header:before border-top-right-radius: inherit,
+#page-header background-position: center center,
+#page-header:before background-position: center center,
+#page-header -webkit-background-size: cover,
+#page-header:before -webkit-background-size: cover,
+#page-header -moz-background-size: cover,
+#page-header:before -moz-background-size: cover,
+#page-header background-size: cover,
+#page-header:before background-size: cover,
+#page-header background-repeat: no-repeat,
+#page-header:before background-repeat: no-repeat,
+#page-header transition: all 0.3s,
+#page-header:before transition: all 0.3s,
+#page-header .read-mode,
+#page-header:before .read-mode {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  #page-header,
+  #page-header:before {
+    margin: -1.8rem -0.7rem 1.8rem -0.7rem;
+  }
+}
+[data-theme='dark'] #page-header,
+[data-theme='dark'] #page-header:before {
+  filter: brightness(0.8);
+}
 #aside-content {
   width: 26%;
 }
 @media screen and (min-width: 900px) {
   #aside-content {
-    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 @media screen and (max-width: 900px) {
