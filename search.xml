@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> JavaSE学习 </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -23,6 +29,12 @@
       
         <content type="html"><![CDATA[<h1 id="测试网站"><a href="#测试网站" class="headerlink" title="测试网站"></a>测试网站</h1><p>建立个人网站方便每日学习的记录</p>]]></content>
       
+      
+      <categories>
+          
+          <category> Java算法 </category>
+          
+      </categories>
       
       
         <tags>
