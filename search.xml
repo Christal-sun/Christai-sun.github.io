@@ -48,17 +48,17 @@
     
     
     <entry>
-      <title>学习笔记</title>
-      <link href="/Christai-sun.github.io/2024/04/19/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-      <url>/Christai-sun.github.io/2024/04/19/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      <title>Test</title>
+      <link href="/Christai-sun.github.io/2024/04/19/Test/"/>
+      <url>/Christai-sun.github.io/2024/04/19/Test/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p><em>这是斜体</em></p><p><em>这是斜体</em></p><p><strong>这是粗体</strong></p><p><strong>这是粗体</strong></p><p><em><strong>这是粗斜体</strong></em></p><p><em><strong>这是粗斜体</strong></em></p><p>换行测试<br/>下一行</p><blockquote><p>这是引用</p><blockquote><p>二层</p><blockquote><p>三层</p></blockquote></blockquote></blockquote><p><a href="https://christal-sun.github.io/Christai-sun.github.io/">这是christal的主页</a></p><p><a href="https://christal-sun.github.io/Christai-sun.github.io/">https://christal-sun.github.io/Christai-sun.github.io/</a></p><ul><li><p>无序列表一</p><ul><li><p>无序列2.1</p><ul><li>无序列表三</li></ul></li></ul></li></ul><p>1. </p><p>2. </p><p>分割线:</p><hr><hr><p><del>这是要被删除的文字</del></p><p><u>添加下划线</u></p><p><code>Hello World</code></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sout</span><br></pre></td></tr></table></figure><p>| 项目|价格|数量</p><p>|:——–|——-:|:—-:</p><p>|计算机  |$19900|3</p><p>|手机|$4455 |3</p>]]></content>
       
       
       
         <tags>
             
-            <tag> test </tag>
+            <tag> Markdown的基本语法 </tag>
             
         </tags>
       
